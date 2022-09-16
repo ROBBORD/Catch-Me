@@ -1,4 +1,4 @@
-# Chatch-Me
+# Catch-Me
 An android game created by using Unity
 
 The Game is a 2D top-down motion game.
